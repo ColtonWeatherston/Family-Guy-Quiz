@@ -1,0 +1,99 @@
+body {
+	background:#a0d7e8;
+	color:#fff;
+	font-family:'Arial', sans-serif;
+	font-size:14px;
+}
+
+#container {
+	width:60%;
+	background:#0e0382;
+	margin:20px auto;
+	overflow: auto;
+	padding:25px;
+}
+
+#welcomeSection {
+	display: block;
+}
+
+#formSection {
+	display: none;
+}
+
+header{
+	text-align:center;
+	border-bottom:#fff dashed 1px;
+}
+
+#welcome {
+	color: #a0d7e8;
+}
+
+#results {
+	color: red;
+	display: none;
+}
+#results2 {
+	color: red;
+	background-color: yellow;
+	display: none;
+	width: 500px;
+	max-width: 500px;
+}
+#results5Right {
+	background-color: yellow;
+	color: red;
+	display: none;
+	width: 225px;
+	max-width: 225px;
+}
+
+.hintdivstyle {
+
+	font-weight: bold;
+	color: #a0d7e8;
+
+}
+
+#q1hint {
+    width: 450px;
+    height: 30px;
+    background: #0e0382;
+	font-weight: bold;
+	color: #a0d7e8;
+    display: none;
+}
+
+#q2hint {
+    width: 450px;
+    height: 30px;
+    background: #0e0382;
+	font-weight: bold;
+	color: #a0d7e8;
+    display: none;
+}
+#q3hint {
+    width: 450px;
+    height: 30px;
+    background: #0e0382;
+	font-weight: bold;
+	color: #a0d7e8;
+    display: none;
+}
+#q4hint {
+    width: 450px;
+    height: 30px;
+    background: #0e0382;
+	font-weight: bold;
+	color: #a0d7e8;
+    display: none;
+}
+#q5hint {
+    width: 450px;
+    height: 30px;
+    background: #0e0382;
+	font-weight: bold;
+	color: #a0d7e8;
+    display: none;
+}
